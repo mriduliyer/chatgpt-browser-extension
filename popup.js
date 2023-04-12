@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = 'YOUR_API_KEY';
 function showLoading() {
   //document.getElementById("sendButton").classList.add("loading-animation");
 }
